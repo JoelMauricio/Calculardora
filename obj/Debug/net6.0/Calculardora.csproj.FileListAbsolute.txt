@@ -1,0 +1,15 @@
+C:\Users\mauri\source\repos\Calculardora\Calculardora\bin\Debug\net6.0\Calculardora.exe
+C:\Users\mauri\source\repos\Calculardora\Calculardora\bin\Debug\net6.0\Calculardora.deps.json
+C:\Users\mauri\source\repos\Calculardora\Calculardora\bin\Debug\net6.0\Calculardora.runtimeconfig.json
+C:\Users\mauri\source\repos\Calculardora\Calculardora\bin\Debug\net6.0\Calculardora.dll
+C:\Users\mauri\source\repos\Calculardora\Calculardora\bin\Debug\net6.0\Calculardora.pdb
+C:\Users\mauri\source\repos\Calculardora\Calculardora\obj\Debug\net6.0\Calculardora.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Calculardora\Calculardora\obj\Debug\net6.0\Calculardora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Calculardora\Calculardora\obj\Debug\net6.0\Calculardora.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Calculardora\Calculardora\obj\Debug\net6.0\Calculardora.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Calculardora\Calculardora\obj\Debug\net6.0\Calculardora.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Calculardora\Calculardora\obj\Debug\net6.0\Calculardora.dll
+C:\Users\mauri\source\repos\Calculardora\Calculardora\obj\Debug\net6.0\refint\Calculardora.dll
+C:\Users\mauri\source\repos\Calculardora\Calculardora\obj\Debug\net6.0\Calculardora.pdb
+C:\Users\mauri\source\repos\Calculardora\Calculardora\obj\Debug\net6.0\Calculardora.genruntimeconfig.cache
+C:\Users\mauri\source\repos\Calculardora\Calculardora\obj\Debug\net6.0\ref\Calculardora.dll
